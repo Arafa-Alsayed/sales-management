@@ -1,0 +1,56 @@
+c:\users\arafaalsayed\documents\visual studio 2015\Projects\products_management\products_management\bin\Debug\products_management.exe.config
+C:\Users\arafaalsayed\Documents\Visual Studio 2015\Projects\products_management\products_management\obj\Debug\products_management.csprojResolveAssemblyReference.cache
+C:\Users\arafaalsayed\Documents\Visual Studio 2015\Projects\products_management\products_management\obj\Debug\products_management.pl.frm_login.resources
+C:\Users\arafaalsayed\Documents\Visual Studio 2015\Projects\products_management\products_management\obj\Debug\products_management.Properties.Resources.resources
+C:\Users\arafaalsayed\Documents\Visual Studio 2015\Projects\products_management\products_management\obj\Debug\products_management.csproj.GenerateResource.Cache
+C:\Users\arafaalsayed\Documents\Visual Studio 2015\Projects\products_management\products_management\bin\Debug\products_management.exe
+C:\Users\arafaalsayed\Documents\Visual Studio 2015\Projects\products_management\products_management\bin\Debug\products_management.pdb
+C:\Users\arafaalsayed\Documents\Visual Studio 2015\Projects\products_management\products_management\obj\Debug\products_management.exe
+C:\Users\arafaalsayed\Documents\Visual Studio 2015\Projects\products_management\products_management\obj\Debug\products_management.pdb
+C:\Users\arafaalsayed\Documents\Visual Studio 2015\Projects\products_management\products_management\obj\Debug\products_management.pl.frm_main.resources
+C:\Users\arafaalsayed\Documents\Visual Studio 2015\Projects\products_management\products_management\obj\Debug\products_management.pl.frm_add_product.resources
+C:\Users\arafaalsayed\Documents\Visual Studio 2015\Projects\products_management\products_management\obj\Debug\products_management.pl.frm_management_products1.resources
+C:\Users\arafaalsayed\Documents\Visual Studio 2015\Projects\products_management\products_management\obj\Debug\products_management.pl.frm_image.resources
+D:\Projects\products_management\products_management\bin\Debug\products_management.exe.config
+D:\Projects\products_management\products_management\obj\Debug\products_management.exe
+D:\Projects\products_management\products_management\obj\Debug\products_management.pdb
+D:\Projects\products_management\products_management\bin\Debug\products_management.exe
+D:\Projects\products_management\products_management\bin\Debug\products_management.pdb
+D:\Projects\products_management\products_management\obj\Debug\products_management.csprojResolveAssemblyReference.cache
+D:\Projects\products_management\products_management\obj\Debug\products_management.pl.frm_add_product.resources
+D:\Projects\products_management\products_management\obj\Debug\products_management.pl.frm_image.resources
+D:\Projects\products_management\products_management\obj\Debug\products_management.pl.frm_login.resources
+D:\Projects\products_management\products_management\obj\Debug\products_management.pl.frm_main.resources
+D:\Projects\products_management\products_management\obj\Debug\products_management.pl.frm_management_products1.resources
+D:\Projects\products_management\products_management\obj\Debug\products_management.Properties.Resources.resources
+D:\Projects\products_management\products_management\obj\Debug\products_management.csproj.GenerateResource.Cache
+D:\Projects\products_management\products_management\obj\Debug\products_management.rpt.frm_rpt_product.resources
+D:\Projects\products_management\products_management\obj\Debug\products_management.pl.frm_category.resources
+D:\Projects\products_management\products_management\obj\Debug\products_management.pl.frm_customers.resources
+D:\Projects\products_management\products_management\obj\Debug\products_management.pl.orders.resources
+D:\Projects\products_management\products_management\obj\Debug\products_management.pl.frm_allcustomer.resources
+D:\Projects\products_management\products_management\obj\Debug\products_management.pl.frm_allproducts.resources
+D:\Projects\products_management\products_management\obj\Debug\products_management.pl.frm_addusers.resources
+D:\Projects\products_management\products_management\obj\Debug\products_management.pl.frm_manageuser.resources
+D:\Projects\products_management\products_management\obj\Debug\products_management.pl.frm_backup.resources
+E:\Projects\products_management\products_management\bin\Debug\products_management.exe.config
+E:\Projects\products_management\products_management\obj\Debug\products_management.exe
+E:\Projects\products_management\products_management\obj\Debug\products_management.pdb
+E:\Projects\products_management\products_management\obj\Debug\products_management.csprojResolveAssemblyReference.cache
+E:\Projects\products_management\products_management\obj\Debug\products_management.pl.frm_addusers.resources
+E:\Projects\products_management\products_management\obj\Debug\products_management.pl.frm_add_product.resources
+E:\Projects\products_management\products_management\obj\Debug\products_management.pl.frm_allcustomer.resources
+E:\Projects\products_management\products_management\obj\Debug\products_management.pl.frm_allproducts.resources
+E:\Projects\products_management\products_management\obj\Debug\products_management.pl.frm_backup.resources
+E:\Projects\products_management\products_management\obj\Debug\products_management.pl.frm_category.resources
+E:\Projects\products_management\products_management\obj\Debug\products_management.pl.frm_customers.resources
+E:\Projects\products_management\products_management\obj\Debug\products_management.pl.frm_image.resources
+E:\Projects\products_management\products_management\obj\Debug\products_management.pl.frm_login.resources
+E:\Projects\products_management\products_management\obj\Debug\products_management.pl.frm_main.resources
+E:\Projects\products_management\products_management\obj\Debug\products_management.pl.frm_management_products1.resources
+E:\Projects\products_management\products_management\obj\Debug\products_management.pl.frm_manageuser.resources
+E:\Projects\products_management\products_management\obj\Debug\products_management.pl.orders.resources
+E:\Projects\products_management\products_management\obj\Debug\products_management.Properties.Resources.resources
+E:\Projects\products_management\products_management\obj\Debug\products_management.csproj.GenerateResource.Cache
+E:\Projects\products_management\products_management\bin\Debug\products_management.exe
+E:\Projects\products_management\products_management\bin\Debug\products_management.pdb
