@@ -19,7 +19,7 @@ namespace products_management.Properties {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources {
@@ -76,6 +76,26 @@ namespace products_management.Properties {
         internal static System.Drawing.Bitmap Alarm_Arrow_Right_icon1 {
             get {
                 object obj = ResourceManager.GetObject("Alarm-Arrow-Right-icon1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap leon_3_wallpaper_2880x1620 {
+            get {
+                object obj = ResourceManager.GetObject("leon_3-wallpaper-2880x1620", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap outer_space_stars_black_hole_wallpaper_1920x1080 {
+            get {
+                object obj = ResourceManager.GetObject("outer_space_stars_black_hole-wallpaper-1920x1080", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

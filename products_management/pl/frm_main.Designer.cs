@@ -58,7 +58,7 @@
             this.ToolStripMenuItem_users});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(500, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(615, 24);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -210,8 +210,10 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Indigo;
-            this.ClientSize = new System.Drawing.Size(500, 395);
+            this.BackColor = System.Drawing.Color.SlateBlue;
+            this.BackgroundImage = global::products_management.Properties.Resources.outer_space_stars_black_hole_wallpaper_1920x1080;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
+            this.ClientSize = new System.Drawing.Size(615, 395);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "frm_main";

@@ -57,7 +57,7 @@ namespace products_management.pl
                 //save picture in memorystream and format its           
                 pictureBox1.Image.Save(ms, pictureBox1.Image.RawFormat);      //rawformat here store formating picture and type
                 byte[] byt_imag = ms.ToArray();
-
+              
                 opp.add_product(Convert.ToInt32(combo_frmaddproduct.SelectedValue), txt_idpro.Text, txt_description_pro.Text, Convert.ToInt32(txt_stock.Text), txt_price.Text, byt_imag);
                 MessageBox.Show("تمت الاضافه بنجاح", "الاضافة", MessageBoxButtons.OK, MessageBoxIcon.Information);
 

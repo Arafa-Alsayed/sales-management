@@ -163,6 +163,7 @@
     </EmbeddedResource>
     <EmbeddedResource Include="pl\frm_customers.resx">
       <DependentUpon>frm_customers.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="pl\frm_image.resx">
       <DependentUpon>frm_image.cs</DependentUpon>
@@ -216,6 +217,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\stock&amp;buy5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\outer_space_stars_black_hole-wallpaper-1920x1080.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leon_3-wallpaper-2880x1620.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

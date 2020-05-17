@@ -38,8 +38,8 @@
             // 
             // txt_id
             // 
-            this.txt_id.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txt_id.Location = new System.Drawing.Point(133, 44);
+            this.txt_id.Margin = new System.Windows.Forms.Padding(5, 3, 3, 3);
             this.txt_id.Name = "txt_id";
             this.txt_id.Size = new System.Drawing.Size(206, 20);
             this.txt_id.TabIndex = 0;
@@ -56,6 +56,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.label1.Location = new System.Drawing.Point(39, 44);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(74, 13);
@@ -65,6 +66,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
+            this.label2.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.label2.Location = new System.Drawing.Point(50, 95);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(63, 13);
@@ -97,8 +99,10 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(429, 204);
+            this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.BackgroundImage = global::products_management.Properties.Resources.leon_3_wallpaper_2880x1620;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(429, 280);
             this.Controls.Add(this.btn_exit);
             this.Controls.Add(this.btn_login);
             this.Controls.Add(this.label2);
@@ -108,6 +112,7 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "frm_login";
+            this.Opacity = 0.8D;
             this.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.RightToLeftLayout = true;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
